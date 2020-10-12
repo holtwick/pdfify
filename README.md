@@ -1,3 +1,5 @@
+<img src="icon.png" width="128">
+
 # [PDFify.app](https://pdfify.app?ref=github&kw=readme)
 
 Issue tracking for PDFify. To upvote features give a 👍 [Learn more](https://pdfify.app/future?ref=github&kw=readme)
